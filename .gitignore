@@ -1,0 +1,11 @@
+# Dune build artifacts
+_build/
+*.install
+
+# Local opam switch
+_opam/
+
+# Editor and OS files
+*~
+*.merlin
+.DS_Store
