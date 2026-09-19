@@ -1,2 +1,5 @@
 (library
- (name tst))
+ (name lox)
+ (wrapped false)
+ (preprocess (pps ppx_deriving.show))
+ )

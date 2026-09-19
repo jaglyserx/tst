@@ -1,4 +1,4 @@
 (executable
  (public_name tst)
  (name main)
- (libraries tst))
+ (libraries lox))
